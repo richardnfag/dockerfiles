@@ -2,4 +2,5 @@
 
 Dockerfiles:
 
-* [Redis](redis-server/Dockerfile)
+* [Redis](redis-server/)
+* [Blogdown](blogdown/)
