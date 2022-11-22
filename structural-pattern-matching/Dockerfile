@@ -1,4 +1,4 @@
-FROM python:3.10-rc-buster
+FROM python:3.12-rc-buster
 WORKDIR /usr/src/jupyterlab/
 
 RUN pip install jupyterlab
